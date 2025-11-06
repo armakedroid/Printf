@@ -10,7 +10,6 @@ You will implement `ft_printf()` and package it as a static library `libftprintf
 
 ## 📌 Prototype
 
-```c
 %c - character
 %s - string
 %p - pointer (hexadecimal)
