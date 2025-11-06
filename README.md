@@ -7,13 +7,13 @@ You will implement `ft_printf()` and package it as a static library `libftprintf
 
 ## 📌 Prototype
 
-%c - character
-%s - string
-%p - pointer (hexadecimal)
-%d, %i - signed decimal integer
-%u - unsigned decimal
-%x - unsigned hex (lowercase)
-%X - unsigned hex (uppercase)
-%% - percent sign
+ %c - character
+ %s - string
+ %p - pointer (hexadecimal)
+ %d, %i - signed decimal integer
+ %u - unsigned decimal
+ %x - unsigned hex (lowercase)
+ %X - unsigned hex (uppercase)
+ %% - percent sign
 
 ---
