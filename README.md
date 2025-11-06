@@ -15,5 +15,3 @@ You will implement `ft_printf()` and package it as a static library `libftprintf
  %x - unsigned hex (lowercase)
  %X - unsigned hex (uppercase)
  %% - percent sign
-
----
