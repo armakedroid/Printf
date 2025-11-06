@@ -10,7 +10,7 @@ You will implement `ft_printf()` and package it as a static library `libftprintf
 
 ## 📌 Prototype
 
-```
+---
 %c — character
 %s — string
 %p — pointer (hexadecimal)
@@ -19,4 +19,4 @@ You will implement `ft_printf()` and package it as a static library `libftprintf
 %x — unsigned hex (lowercase)
 %X — unsigned hex (uppercase)
 %% — percent sign
-```
+---
